@@ -1,0 +1,7 @@
+/* Delete This Before Use
+[Alpha:UserType][Numx3:UserID]:[Username]:[hashed+salted password]
+A=Admin
+C=computer Science
+M=Time, Motion, Media
+Example Above: Type: Admin, ID=A193, Name=“demo”, password=“1234” */
+A193:demo$2y$12$HxMFy4vQlWcbSkwj6ee0W.GcHBm9aNcJ19g88Ht8yyx5f8VenUWHi

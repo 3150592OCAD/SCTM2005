@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE posts SYSTEM "template.dtd">
+<posts number="5">
+	<post id="0">
+		<location>admin</location>
+		<catagory>test</catagory>
+		<title>First Post</title>
+		<description>The First Post</description>
+		<date>14/09/16</date>
+		<short>This is a short version the First Post</short>
+		<main>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a fringilla lacus. Nunc molestie lorem ut nisi volutpat ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit dolor pulvinar facilisis interdum. Suspendisse euismod massa eget libero egestas vehicula. Suspendisse accumsan mattis efficitur. Sed sit amet lacinia quam, eget facilisis tellus. Donec in elit sit amet ex gravida euismod vel et purus. Nullam ut dapibus sem. Aliquam eros justo, bibendum dictum turpis nec, efficitur sollicitudin neque. Etiam commodo nibh nec justo vulputate rutrum. Etiam dui est, sollicitudin nec tristique vel, commodo et urna. In aliquet accumsan bibendum.&lt;/p&gt;</main>
+	</post>
+	<post id="1">
+		<location>com-sci</location>
+		<catagory>test</catagory>
+		<title>tesing</title>
+		<description>a post for testing Comp-Sci</description>
+		<date>14/09/16</date>
+		<short>short content, click view all to see full post</short>
+		<main>&lt;p&gt;Full Post:&lt;br /&gt;Lorem Ispum Dolor Sit Amet.&lt;/p&gt;&lt;p&gt;Ut Alum Quan C&lt;/p&gt;</main>
+	</post>
+	<post id="2">
+		<location>media</location>
+		<catagory>test</catagory>
+		<title>tesing</title>
+		<description>a post for testing M</description>
+		<date>14/09/16</date>
+		<short>Maecenas nibh arcu, eleifend at erat vitae, lobortis euismod ante. Aenean pulvinar, nulla et molestie vestibulum, orci quam sagittis ex, a lobortis nisl velit eu dui. Proin eget nibh luctus, vestibulum est sed, faucibus mi. Curabitur sollicitudin a erat ac semper.</short>
+		<main>&lt;p&gt;Lorem Ispum Dolor Sit Amet.&lt;/p&gt;&lt;p&gt;Ut Alum Quan M&lt;/p&gt;</main>
+	</post>
+	<post id="3">
+		<location>media</location>
+		<catagory>assign2</catagory>
+		<title>tesing 123</title>
+		<description>a post for testing M</description>
+		<date>14/09/16</date>
+		<!--<img src="http://random-ize.com/lorem-ipsum-generators/lorem-ipsum/lorem-ipsum.jpg" />-->
+		<short>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a fringilla lacus. Nunc molestie lorem ut nisi volutpat ornare. Vivamus suscipit dolor pulvinar facilisis interdum. Suspendisse euismod massa eget libero egestas vehicula. Suspendisse accumsan mattis efficitur. Sed sit amet lacinia quam, eget facilisis tellus. Donec in elit sit amet ex gravida euismod vel et purus. Nullam ut dapibus sem.</short>
+		<main>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a fringilla lacus. Nunc molestie lorem ut nisi volutpat ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit dolor pulvinar facilisis interdum. Suspendisse euismod massa eget libero egestas vehicula. Suspendisse accumsan mattis efficitur. Sed sit amet lacinia quam, eget facilisis tellus. Donec in elit sit amet ex gravida euismod vel et purus. Nullam ut dapibus sem. Aliquam eros justo, bibendum dictum turpis nec, efficitur sollicitudin neque. Etiam commodo nibh nec justo vulputate rutrum. Etiam dui est, sollicitudin nec tristique vel, commodo et urna. In aliquet accumsan bibendum.&lt;/p&gt;
+		&lt;p&gt;Maecenas nibh arcu, eleifend at erat vitae, lobortis euismod ante. Aenean pulvinar, nulla et molestie vestibulum, orci quam sagittis ex, a lobortis nisl velit eu dui. Proin eget nibh luctus, vestibulum est sed, faucibus mi. Curabitur sollicitudin a erat ac semper. Vivamus venenatis nibh quis tincidunt porttitor. Donec id vulputate sapien, accumsan blandit dolor. Quisque cursus ultricies orci at ultricies. Vestibulum ac purus erat. Donec cursus vestibulum elit, at feugiat felis maximus viverra. Fusce interdum sollicitudin euismod. Donec quis elit ac quam tincidunt fermentum. Cras imperdiet ante ut mollis venenatis. Proin sed urna finibus, egestas mi sit amet, ullamcorper eros.&lt;/p&gt;</main>
+	</post>
+	<post id="4">
+		<location>media</location>
+		<catagory>assign1</catagory>
+		<title>tesing 123</title>
+		<description>a post for testing M</description>
+		<date>14/09/16</date>
+		<short/>
+		<main>&lt;p&gt;Lorem Ispum Dolor Sit Amet.&lt;/p&gt;&lt;p&gt;Ut Alum Quan M&lt;/p&gt;</main>
+	</post>
+	<post id="5">
+		<location>com-sci</location>
+		<catagory>test</catagory>
+		<title>testing web interface</title>
+		<description>I'm adding a web interface</description>
+		<date>17/09/16</date>
+		<short>testing 1.2.3...</short>
+		<main>&lt;p&gt;testing 1.2.3...&lt;/p&gt;</main>
+	</post>
+</posts>
