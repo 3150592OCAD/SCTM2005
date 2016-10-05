@@ -1,0 +1,13 @@
+<!ELEMENT posts (post*)>
+<!ELEMENT post (location,catagory?,title,description?,date,img?,short,main)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT catagory (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT img EMPTY>
+<!ELEMENT short (#PCDATA)>
+<!ELEMENT main ANY>
+<!ATTLIST posts number CDATA #REQUIRED>
+<!ATTLIST post id CDATA #REQUIRED>
+<!ATTLIST img src CDATA #REQUIRED>
