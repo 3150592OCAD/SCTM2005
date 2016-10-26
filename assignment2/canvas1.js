@@ -1,7 +1,7 @@
 function setup(){
-	var scl = 800;
+	var scl = 300;
 	//canvas("canvas","2d",11*scl/6,11*scl/6);
-	canvas("canvas","2d",scl,scl);
+	canvas("canvas1","2d",scl,scl);
 	CANVAS.context.strokeRect(0,0,scl,scl);
 	scl *= 12/22;
 	CANVAS.context.translate(CANVAS.width/2,(CANVAS.height/2)+scl*0.11);
